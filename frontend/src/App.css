@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Passion+One:wght@400;700;900&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  font-family: "Josefin Sans";
+}
+
+body {
+  background-color: rgb(255, 253, 251);
+  overflow: hidden;
+}
+
+/* Change the color of selected text */
+::selection {
+  /* background-color: #ffd363; Background color for the selection */
+  background-color: #ff9900; /* Background color for the selection */
+  color: #ffffff; /* Text color for the selection */
+}

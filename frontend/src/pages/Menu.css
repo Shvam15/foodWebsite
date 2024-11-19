@@ -1,0 +1,22 @@
+    
+
+.swiper-slide:nth-child(n) {
+  background-color: transparent;
+}
+
+.swiper-slide:nth-child(2n) {
+  background-color: transparent;
+}
+
+.swiper-slide:nth-child(3n) {
+  background-color: transparent;
+}
+
+.swiper-slide:nth-child(4n) {
+  background-color: transparent;
+}
+
+.swiper-slide:nth-child(5n) {
+  background-color: transparent;
+}
+
